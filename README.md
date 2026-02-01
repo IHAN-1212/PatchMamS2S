@@ -14,7 +14,7 @@ If you have any questions or concerns, please contact us: YuhanLin4038@outlook.c
 
 ## Citation
 
-If you find this repo useful in your research, please consider citing our paper as follows:
+If you find our works useful in your research, please consider citing our paper as follows:
 
 ```
 @article{lin2025crossmamba,
@@ -26,6 +26,11 @@ If you find this repo useful in your research, please consider citing our paper 
   pages={68},
   year={2025},
   publisher={Springer}
+}
+@article{lin2026patchMmams2s,
+  title={PatchMamS2S: A Multivariate Time Series Forecasting Model for Power Load Based on the Mamba with Integrated Patching Strategy.},
+  author={Yuhan LIN, Haoyuan OUYANG, Hongyu CHEN, Zhiyong HONG, Liping XIONG and Zhishuang WANG},
+  year={2026}
 }
 ```
 
